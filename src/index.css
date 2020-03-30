@@ -1,0 +1,32 @@
+div{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 4em;
+}
+label{
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 10px;
+    display: block;
+}
+input{
+    padding: 10px;
+    width: 50%;
+    display: block;
+    margin-bottom: 10px;
+}
+button{
+    margin: 2em 0em;
+    padding: 1em 4em;
+    display: block;
+}
+#id1{
+    background-color: white;
+    padding: 1em 4em;
+    margin: 1em 0em;
+}
+.container{
+    width: 50%;
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(140, 252, 252);
+}
